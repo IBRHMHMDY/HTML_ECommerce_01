@@ -1,4 +1,4 @@
-This ecommerce website has multiple pages:
+Pages:
 1. Home Page
 2. Product Page
 3. Offer Page
@@ -6,7 +6,7 @@ This ecommerce website has multiple pages:
 5. Cart Page
 6. Checkout Page
 
-Features in this ecommerce website tutorial:
+Features:
 - responsive menu
 - mega menu
 - all departments menu
@@ -15,3 +15,9 @@ Features in this ecommerce website tutorial:
 - trending products
 - sold/available stock product percentage bar
 - overlay and fixed cart
+
+Technologies:
+- HTML+CSS+JS
+- CDN remixicon
+- swiper9
+- Google Fonts [Poppins - Rubik]
